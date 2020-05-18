@@ -1,0 +1,1 @@
+/usr/bin/mpicxx  -O3 -DNDEBUG  -rdynamic CMakeFiles/symmetrize_app.dir/symmetrize.cpp.o  -o symmetrize -Wl,-rpath,/home/chihin/Documents/Repositories/channelflow/build/channelflow:/home/chihin/Documents/Repositories/channelflow/build/nsolver:/usr/local/lib: ../channelflow/libchflow.so ../nsolver/libnsolver.so /usr/local/lib/libfftw3_mpi.so /usr/local/lib/libfftw3.so 

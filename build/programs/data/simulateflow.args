@@ -1,0 +1,2 @@
+Mon May 18 09:31:18 2020	14602	./simulateflow -T 200 newfield.nc 
+Mon May 18 09:42:19 2020	15075	./simulateflow -T 200 newfield.nc 

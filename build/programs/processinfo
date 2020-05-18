@@ -1,0 +1,9 @@
+Command:  ./simulateflow -T 200 newfield.nc 
+PWD:      /home/chihin/Documents/Repositories/channelflow/build/programs
+Host:     chanbuntu, PID: 15075
+Time:     2020-05-18 09:42:19
+Version:  2.0.2
+Git rev:  b1da5ba316f9b87333a1aa390d832cca842ad4b6
+Compiler: GNU 7.5.0
+
+
